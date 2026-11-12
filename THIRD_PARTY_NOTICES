@@ -1,0 +1,2 @@
+codebook.py: VectorQuantizerEMA is adapted from https://github.com/devnkong/GOAT.
+The upstream RelGT license is retained in LICENSE.
